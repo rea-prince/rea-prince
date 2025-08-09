@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi! I'm Naif
+---
+I'm an undergraduate at De La Salle University taking Computer Science majoring in Software Technology.
+## Languages
+---
+C • Python • HTML • CSS • JavaScript 
+
 
 <!--
 **rea-prince/rea-prince** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
